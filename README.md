@@ -12,11 +12,11 @@ From those results Calculate and display the stock ticker and percentage change 
 
 ## Visuals
 Inculded in this repository are images showing screenshots of my results. These are the files that you should have.
-Results_2018.png 
-Results_2019.png
-Results_2020.png
-Results_pt2_2018.png
-Results_pt2_2019.png
+Results_2018.png, 
+Results_2019.png,
+Results_2020.png,
+Results_pt2_2018.png,
+Results_pt2_2019.png,
 Results_pt2_2020.png
 
 ## Installation
