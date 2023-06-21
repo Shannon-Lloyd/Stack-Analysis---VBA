@@ -1,6 +1,6 @@
 
 ## Name
-exceVBAl-challenge
+VBA-challenge
 ## Description
 Process stock data from 2018, 2019, and 2020
 For each year and each stock claculate the yearly change from the opening price at the beginning of the year to the closing price at the end of the year. If change is negative set background fill to red or green if positive.
